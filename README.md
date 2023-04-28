@@ -19,7 +19,7 @@
     <img align="center" alt="Icaro-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
    -->
   <img align="center" alt="Icaro-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="right" alt="Icaro-pic" height="150" style="border-radius:50px;" src="src/icaro-pic.png">
+  <img align="right" alt="Icaro-pic" height="150" src="src/icaro-pic.png">
 </div>
 
 ##
